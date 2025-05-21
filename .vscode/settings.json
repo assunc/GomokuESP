@@ -1,0 +1,26 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\rafa2\\esp\\v5.4\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\rafa2\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\rafa2\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.portWin": "COM5",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "C:\\Users\\rafa2\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20240318/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1",
+        "ESP_ROM_ELF_DIR": "C:\\Users\\rafa2\\.espressif\\tools\\esp-rom-elfs\\20240305/",
+        "IDF_TARGET": "esp32s3"
+    },
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.flashType": "UART",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "functional": "c",
+        "memory": "c",
+        "optional": "c",
+        "soc.h": "c",
+        "compare": "c",
+        "cstdint": "c"
+    }
+}
