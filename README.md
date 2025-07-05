@@ -1,6 +1,8 @@
 # 🔲 ESP32 Gomoku Engine
 
 An embedded C-based Gomoku bot that runs on the ESP32, receives board states via BLE, and computes optimal moves using a Minimax-based engine. Communicates with a PIC microcontroller using nRF24 and includes support for multiple difficulty levels and optimizations like alpha-beta pruning, transposition tables, and quiescence search.
+[EE3_Paper_Final.pdf](https://github.com/user-attachments/files/21080483/EE3_Paper_Final.pdf)
+
 
 ![Platform](https://img.shields.io/badge/platform-ESP32-blue)
 ![Language](https://img.shields.io/badge/language-C-blue)
